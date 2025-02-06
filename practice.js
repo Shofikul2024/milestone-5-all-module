@@ -4,3 +4,4 @@ console.log( Array.isArray)
 
 
 console.log(convert)  ;
+console.log( typeof convert)  ;
