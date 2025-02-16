@@ -1,5 +1,7 @@
-function  logMessage (message) {
-console.log(message)
+// function  logMessage (message) {
+// console.log(message)
 
-}
- logMessage("hello")
+// }
+//  logMessage("hello")
+
+
